@@ -1,5 +1,5 @@
 # CA_MSA
-
+Hadith Simplification Datase
 
 This repository contains 250 Classical Arabic (CA) Hadiths simplified to Modern Standard Arabic (MSA) using a Large Language Model (LLM). The LLM-generated MSA texts were subsequently revised and modified by a human annotator.
 
